@@ -1,6 +1,6 @@
-# Classification of Neurons and Glia
+# Combinatorial Classification of Neurons and Glia
 
-This repository contains Python scripts for processing, analyzing, and comparing datasets of neurons and glia. The scripts are designed to handle combinatorial classification tasks, generate processed datasets, and compare glial and neuronal data across multiple branches.
+This repository contains Python scripts for processing, analyzing, and comparing datasets of neurons and glia based on their branches. The scripts are designed to handle combinatorial classification tasks, generate processed datasets, and compare glial and neuronal data across multiple branches.
 
 ## Table of Contents
 - Overview
@@ -19,7 +19,7 @@ This repository contains Python scripts for processing, analyzing, and comparing
 
 The repository provides tools to:
 1. Process glial and neuronal datasets to generate combinatorial classifications.
-2. Compare glial and neuronal datasets across multiple branches.
+2. Compare glial and neuronal datasets based on number of branches.
 3. Save processed results to CSV files for further analysis.
 
 ---
@@ -30,7 +30,7 @@ The repository provides tools to:
 
 This script processes glial datasets to generate combinatorial classifications. It performs the following steps:
 - Loads the input dataset.
-- Generates random samples of specified sizes.
+- Generates random samples without replacement of specified sizes.
 - Calculates averages for the samples.
 - Reshapes and transposes the data.
 - Applies a threshold to classify the data.
@@ -52,7 +52,7 @@ python glia_combinatorial_classifier.py Glia_Data.csv
 
 This script processes neuronal datasets in a similar manner to the glial classifier. It performs the same steps:
 - Loads the input dataset.
-- Generates random samples of specified sizes.
+- Generates random samples without replacement of specified sizes.
 - Calculates averages for the samples.
 - Reshapes and transposes the data.
 - Applies a threshold to classify the data.
@@ -131,6 +131,10 @@ Create a `config.json` file specifying the paths to the glial and neuronal files
 ```bash
 python comparison_glia_neurons.py --config config.json
 ```
+
+### Results
+![alt text](image.png) 
+![alt text](image-1.png)
 
 ---
 
