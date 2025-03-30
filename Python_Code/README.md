@@ -182,6 +182,21 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Cite
 
-Akram, M. A., Wei, Q., & Ascoli, G. A. (2023). Machine learning classification reveals robust morphometric biomarker of glial and neuronal arbors. Journal of neuroscience research, 101(1), 112–129. https://doi.org/10.1002/jnr.25131
+Please cite the following paper if you used this tool in any publication:
+
+```BibTex
+
+@article{https://doi.org/10.1002/jnr.25131,
+  author = {Akram, Masood A. and Wei, Qi and Ascoli, Giorgio A.},
+  doi = {https://doi.org/10.1002/jnr.25131},
+  journal = {Journal of Neuroscience Research},
+  number = {1},
+  pages = {112--129},
+  title = {{Machine learning classification reveals robust morphometric biomarker of glial and neuronal arbors}},
+  volume = {101},
+  year = {2023}
+}
+
+```
 
 ---
