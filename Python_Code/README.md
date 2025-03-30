@@ -1,5 +1,7 @@
 # Combinatorial Classification of Neurons and Glia
 
+Q: How many branches are needed to distinguish glia from neurons?
+
 This repository contains Python scripts for processing, analyzing, and comparing datasets of neurons and glia based on their branches. The scripts are designed to handle combinatorial classification tasks, generate processed datasets, and compare glial and neuronal data across multiple branches.
 
 ## Table of Contents
