@@ -163,3 +163,21 @@ project/
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+---
+
+## Cite
+
+@article{https://doi.org/10.1002/jnr.25131,
+author = {Akram, Masood A. and Wei, Qi and Ascoli, Giorgio A.},
+title = {Machine learning classification reveals robust morphometric biomarker of glial and neuronal arbors},
+journal = {Journal of Neuroscience Research},
+volume = {101},
+number = {1},
+pages = {112-129},
+keywords = {branch length, cellular identity, K-nearest neighbor, morphology, neuroinformatics, NeuroMorpho.Org, random forest, supervised learning, support vector machine, tree size},
+doi = {https://doi.org/10.1002/jnr.25131},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/jnr.25131},
+year = {2023}
+}
+
+---
