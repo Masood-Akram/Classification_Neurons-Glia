@@ -1,0 +1,21 @@
+{
+    "glia_files": [
+        "glia/Glia_Branch-1.csv",
+        "glia/Glia_Branch-2.csv",
+        "glia/Glia_Branch-3.csv",
+	    "glia/Glia_Branch-4.csv",
+	    "glia/Glia_Branch-5.csv",
+	    "glia/Glia_Branch-10.csv",
+	    "glia/Glia_Branch-15.csv"
+    ],
+    "neuron_files": [
+        "neuron/Neuron_Branch-1.csv",
+        "neuron/Neuron_Branch-2.csv",
+        "neuron/Neuron_Branch-3.csv",
+	    "neuron/Neuron_Branch-4.csv",
+	    "neuron/Neuron_Branch-5.csv",
+	    "neuron/Neuron_Branch-10.csv",
+	    "neuron/Neuron_Branch-15.csv"
+    ],
+    "output_file": "output/glia_neuron_branch_comparison.csv"
+}
