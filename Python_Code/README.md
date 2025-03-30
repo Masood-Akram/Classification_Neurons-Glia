@@ -133,7 +133,7 @@ python comparison_glia_neurons.py --config config.json
 ```
 
 ### Results
-![alt text](C:/Users/MasoodAkram/UCLA Mednet Dropbox/Masood Akram/Yang_Lab/GitHub/Classification_Neurons-Glia/Python_Code/image-1.png)
+![alt text](Python_Code/image-1.png)
 
 ---
 
