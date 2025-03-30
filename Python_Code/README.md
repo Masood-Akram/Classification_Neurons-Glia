@@ -4,6 +4,7 @@ This repository contains Python scripts for processing, analyzing, and comparing
 
 ## Table of Contents
 - Overview
+- Python Version
 - Scripts
   - glia_combinatorial_classifier.py
   - neuron_combinatorial_classifier.py
@@ -22,6 +23,18 @@ The repository provides tools to:
 2. Compare glial and neuronal datasets based on number of branches.
 3. Save processed results to CSV files for further analysis.
 
+---
+
+## Python Version
+
+Make sure your Python version is compatible with the libraries. For example:
+```bash
+python --version
+```
+You should see something like:
+```bash
+Python 3.8.10
+```
 ---
 
 ## Scripts
