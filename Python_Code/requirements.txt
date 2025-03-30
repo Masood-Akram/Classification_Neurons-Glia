@@ -1,4 +1,4 @@
 pandas==1.5.3
 numpy==1.24.2
-tqdm==4.64.1
+tqdm>=4.66.3
 argparse==1.4.0
