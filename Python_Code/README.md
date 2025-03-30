@@ -133,7 +133,7 @@ python comparison_glia_neurons.py --config config.json
 ```
 
 ### Results
-![alt text](Python_Code/image-1.png)
+![alt text](image-1.png)
 
 ---
 
