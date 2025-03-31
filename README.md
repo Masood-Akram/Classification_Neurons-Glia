@@ -93,15 +93,16 @@ This folder contains additional resources, such as:
 
 If you use this repository in your research, please cite the associated paper:
 
-```
-@article{your-paper,
-  title={Morphological and Machine Learning Classification of Neurons and Glia},
-  author={Your Name and Co-authors},
-  journal={Journal Name},
-  year={2025},
-  volume={XX},
-  pages={XX-XX},
-  doi={DOI}
+```BibTex
+@article{https://doi.org/10.1002/jnr.25131,
+  author = {Akram, Masood A. and Wei, Qi and Ascoli, Giorgio A.},
+  doi = {https://doi.org/10.1002/jnr.25131},
+  journal = {Journal of Neuroscience Research},
+  number = {1},
+  pages = {112--129},
+  title = {{Machine learning classification reveals robust morphometric biomarker of glial and neuronal arbors}},
+  volume = {101},
+  year = {2023}
 }
 ```
 
